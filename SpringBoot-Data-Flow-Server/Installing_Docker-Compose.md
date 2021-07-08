@@ -1,1 +1,2 @@
     set DATAFLOW_VERSION=2.8.1
+    set SKIPPER_VERSION=2.7.1
